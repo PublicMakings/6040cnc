@@ -23,14 +23,15 @@ helped me compare search terms on ebay to find the best deal. I searched for "60
 
 ### Terminology
 
-Tabletop mills are often listed with a four-digit number like 6040 (~24" x 15.5"). This refers to the XY work area in cm. 
+Tabletop mills are often listed with a four-digit number like 6040 (~24" x 15.5").
+  - This refers to the XY work area in cm. 
 When referring to motors, 57 = NEMA 23.
 
 ### Features
 
 Axes - minimum of 3. The fourth axis is rotational and allows for lathe-like milling of cylindrical objects.  
 Spindle -  power is listed in watts. Fancier spindles have more power and are water cooled.  
-Slides - rod vs linear rail 
+Slides - rod vs linear rail
 Drive - trapezoidal vs ballscrew
 
 ### Assembly  
@@ -39,8 +40,8 @@ Place X axis beam in Y axis brackets.
 Use mallet to tap into place (to avoid stripping tapped holes). 
 Bolt from sides and bottom. 
 Attach motors. 
-  *Take care to orient each wire harness towards its corresponding cable run 
-  *Orient each standoff block to allow easiest allen key access
+  - Take care to orient each wire harness towards its corresponding cable run 
+  - Orient each standoff block to allow easiest allen key access
  
 ### Maintenance
 
@@ -56,5 +57,5 @@ management.
 Lots of folks have [done this before](http://www.eevblog.com/forum/reviews/china-cnc-6040-setup-testing-review/?PHPSESSID=0521816f3f32ad12d44d4c11fb0a35c8), 
 so we don't have to go into things totally blind. Many reviewers indicate that the control systems that come with these
 machines are no good - you'll hear a lot of complaints about the "blue
-controller." I also picked up a (TinyG)[https://www.youtube.com/watch?v=In9Q_R0Nui8] controller board just in case, but I haven't had to use it yet.
+controller." I also picked up a [TinyG](https://www.youtube.com/watch?v=In9Q_R0Nui8) controller board just in case, but I haven't had to use it yet.
 
