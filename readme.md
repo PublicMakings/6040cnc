@@ -58,10 +58,10 @@ to fall for that, but I was dumb enough to continue working with the
 seller.
 
 Despite my reservations I made the purchase, and sure enough, the
-spindle was rated at 800w. A long email chain ensued, and the seller
+spindle I purchased was rated at 800w. A long email chain ensued, and the seller
 wouldn't budge until I started an official complaint through eBay. I was
 eventually offered $100 off which I accepted, because I really didn't
-want to send the whole thing back.
+want to send the whole thing back. All told I'm happy with how things turned out.
 
 #### Assembly (WIP)
 
@@ -75,6 +75,12 @@ Attach motors. Take care to orient each wire harness towards its corresponding c
 Water cooled spindles systems should use distilled water with an anti-corrosion additive. 
 I picked [Inhibited Propylene Glycol](https://en.wikipedia.org/wiki/Polypropylene_glycol) due to its
 low-ish toxicity. I bought mine at Napa auto.
+
+A pump came with the 6040, but you still need a reservoir to hold the
+coolant. I made mine out of a plastic bucket and some panel-mount barb
+fittings. Beware the aluminum barbs that come with the pump - mine let
+go in the middle of a session and sprayed coolant all over. Now that
+barb is reinforced with hose clamps.
 
 #### Lubrication (WIP)
 
