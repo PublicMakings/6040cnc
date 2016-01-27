@@ -87,7 +87,7 @@ go in the middle of a cut and sprayed coolant all over. Now that
 barb is reinforced with hose clamps.
 
 One remaining issue: my pump does not always turn on when I hit the
-switch. I think the problem is on the pump side, so I may need to
+switch. I don't think the problem is on the pump side, so I may need to
 replace the switch.
 
 #### Lubrication (WIP)
