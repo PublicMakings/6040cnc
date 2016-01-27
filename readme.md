@@ -68,7 +68,9 @@ want to send the whole thing back. All told I'm happy with how things turned out
 Place X axis beam in Y axis brackets. 
 Use a non-metallic mallet to tap into place to avoid stripping tapped holes. 
 Bolt from sides and bottom. 
-Attach motors. Take care to orient each wire harness towards its corresponding cable run, and orient each standoff block to allow easiest allen key access.
+Attach motors. Take care to orient each wire harness towards its
+corresponding cable run, and orient each standoff block to allow easiest
+allen key access.
  
 #### Coolant (WIP)
 
@@ -78,8 +80,10 @@ low-ish toxicity. I bought mine at Napa auto.
 
 A pump came with the 6040, but you still need a reservoir to hold the
 coolant. I made mine out of a plastic bucket and some panel-mount barb
-fittings. Beware the aluminum barbs that come with the pump - mine let
-go in the middle of a session and sprayed coolant all over. Now that
+fittings: 1 x [BHU2204](http://quickcouplings.net/osc/product_info.php?products_id=1080&osCsid=8e12c1e2b70df5345fca6878b4a5c1a3) 
+and 1 x [BHU2206](http://quickcouplings.net/osc/product_info.php?products_id=1081). 
+Beware the aluminum barbs that come with the pump - mine let
+go in the middle of a cut and sprayed coolant all over. Now that
 barb is reinforced with hose clamps.
 
 #### Lubrication (WIP)
