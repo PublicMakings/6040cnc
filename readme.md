@@ -26,9 +26,13 @@ helped me compare search terms on ebay to find the best deal. I searched for "60
 #### Specs (What I Purchased)
 
 Work Area: 60cm x 40cm
+
 Motor Size: 57 / NEMA 23
+
 Axes: 4 (XYZA)
+
 Spindle: 800w, fluid-cooled
+
 Controller: Parallel-based (so I can use LinuxEMC)
 
 #### Manufacturer(?)
