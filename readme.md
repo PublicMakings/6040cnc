@@ -25,15 +25,11 @@ helped me compare search terms on ebay to find the best deal. I searched for "60
 
 #### Specs (What I Purchased)
 
-Work Area: 60cm x 40cm
-
-Motor Size: 57 / NEMA 23
-
-Axes: 4 (XYZA)
-
-Spindle: 800w, fluid-cooled
-
-Controller: Parallel-based (so I can use LinuxEMC)
+ * Work Area: 60cm x 40cm
+ * Motor Size: 57 / NEMA 23
+ * Axes: 4 (XYZA)
+ * Spindle: 800w, fluid-cooled
+ * Controller: Parallel-based (so I can use [LinuxEMC](http://linuxcnc.org/))
 
 #### Manufacturer(?)
 
@@ -44,7 +40,7 @@ can't vouch for the site personally, but it certainly looks less sketchy
 than the eBay sellers (who are probably just selling outdated/knockoff versions
 of the OmioCNC product). These kits come with some nice extras, like a
 tool touchoff sensor and a USB-based controller. The tradeoff is that
-you're looking at ~$300 for shipping from China.
+you're looking at ~$300 for shipping from China and need to find/purchase your own compatible machine controller software.
 
 #### Additional Considerations
 
