@@ -25,7 +25,8 @@ helped me compare search terms on ebay to find the best deal. I searched for "60
 
 #### Specs (What I Purchased)
 
-Work Area | 60cm x 40cm 
+Work Area	60cm x 40cm 
+Motor Size	57 / NEMA 23
 
 Update: This may well be the manufacturer that produced the kit I wound up buying. The site certainly looks less sketchy than 
 
