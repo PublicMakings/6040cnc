@@ -25,21 +25,22 @@ helped me compare search terms on ebay to find the best deal. I searched for "60
 
 #### Specs (What I Purchased)
 
-Work Area	60cm x 40cm 
-Motor Size	57 / NEMA 23
+Work Area: 60cm x 40cm
+Motor Size: 57 / NEMA 23
+Axes: 4 (XYZA)
+Spindle: 800w, fluid-cooled
+Controller: Parallel-based (so I can use LinuxEMC)
 
-Update: This may well be the manufacturer that produced the kit I wound up buying. The site certainly looks less sketchy than 
+#### Manufacturer(?)
 
-#### Terminology/Features
-
-Tabletop mills are often listed with a four-digit number like 6040 (~24" x 15.5").
-^ this refers to the XY work area in cm. 
-Motors designated as 57 are equivalent to NEMA 23.
-
-Axes - minimum of 3. The fourth axis is rotational and allows for lathe-like milling of cylindrical objects.  
-Spindle -  power is listed in watts. Fancier spindles have more power and are water cooled.  
-Slides - rod vs linear rail
-Drive - trapezoidal vs ballscrew
+After I purchased my rig from eBay and started using it I did some
+repairs. This exposed manufacturer part numbers, which brought me to
+[this site](http://www.omiocnc.com/x4-800-usb-4a-cnc-desktop-engraver.html). I
+can't vouch for the site personally, but it certainly looks less sketchy
+than the eBay sellers (who are probably just selling outdated/knockoff versions
+of the OmioCNC product). These kits come with some nice extras, like a
+tool touchoff sensor and a USB-based controller. The tradeoff is that
+you're looking at ~$300 for shipping from China.
 
 #### Additional Considerations
 
