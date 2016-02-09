@@ -2,7 +2,7 @@
 
 #### Background
 
-As I said in the readme, lots of folks are pretty down on these driver
+A little research shows that lots of folks are pretty down on these driver
 boards sourced from China. I wound up blowing out an axis on the first
 day I was using the mill for a couple continuous hours. As far as I can
 tell this had nothing to do with my settings, as we were taking it nice
@@ -33,4 +33,8 @@ always just follow the wires to the outside of the case.
 A drive unit opens just as easily as the case. I couldn't find any
 issues on visual inspection, so I assume the drive chip is bad. Luckily
 they are pretty cheap [online](https://www.digikey.com/product-detail/en/TB6560AHQ,8/TB6560AHQ8-ND/1730072), 
-so I bought three. I'll update this page if replacing the chip brings the driver back online.
+so I bought three. ~~I'll update this page if replacing the chip brings
+the driver back online.~~ No dice on replacing the driver. Now I may try
+swapping the other chips with a good drive unit, and after that I may
+just buy a whole new driver from
+[OmioCNC](http://www.omiocnc.com/x4-800-usb-4a-cnc-desktop-engraver.html).
