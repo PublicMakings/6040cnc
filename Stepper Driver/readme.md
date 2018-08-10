@@ -38,3 +38,7 @@ the driver back online.~~ No dice on replacing the driver. Now I may try
 swapping the other chips with a good drive unit, and after that I may
 just buy a whole new driver from
 [OmioCNC](http://www.omiocnc.com/x4-800-usb-4a-cnc-desktop-engraver.html).
+
+#### TingG
+
+I decided to throw out the crap original motor drivers and try the TinyG instead. I don't want to cut wires just in case I can find original form factor drivers that work, so I idetified the motor signal and power supply connectors as JST VH 3.96mm. Check out [this link](http://dangerousprototypes.com/blog/2017/06/22/dirty-cables-whats-in-that-pile/) to go down the rabbit hole on different connector specs.
