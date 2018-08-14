@@ -42,3 +42,5 @@ just buy a whole new driver from
 #### TingG
 
 I decided to throw out the crap original motor drivers and try the TinyG instead. I don't want to cut wires just in case I can find original form factor drivers that work, so I idetified the motor signal and power supply connectors as JST VH 3.96mm. Check out [this link](http://dangerousprototypes.com/blog/2017/06/22/dirty-cables-whats-in-that-pile/) to go down the rabbit hole on different connector specs.
+
+TinyG can run straight over the terminal or with [Chilipeppr](chilipeppr.com/tinyg). Try [testing your motors](https://github.com/synthetos/TinyG/wiki/Connecting-TinyG) in the terminal first, then moving on to troubleshooting the more complex Chilipeppr interface. Remember that you can't be connected to both Coolterm and Chilipeppr at the same time, and that Chilipeppr requires that you run a [JSON server](https://github.com/chilipeppr/serial-port-json-server/releases) on the computer that is connected to TinyG via USB.
